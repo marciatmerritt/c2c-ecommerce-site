@@ -1,0 +1,8 @@
+.footer {
+  background-color: whitesmoke;
+  position: fixed;
+  height: 60px;
+  width: 100vw;
+  bottom: 0;
+  border-top: solid black;
+}

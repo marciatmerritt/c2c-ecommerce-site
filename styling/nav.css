@@ -1,0 +1,60 @@
+.nav {
+  height: 60px;
+  width: 100vw;
+  background: #ababab;
+}
+
+#links {
+  display: flex;
+  height: 40px;
+  background-color: rgb(0, 92, 122);
+  border: solid;
+  align-items: center;
+  justify-content: center;
+}
+
+.navlink {
+  margin: auto;
+  vertical-align: middle;
+  color: black;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.icons {
+  height: 30px;
+  margin: auto;
+}
+
+.nav-items {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.search-btn {
+  height: 40px;
+  margin-left: 0px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.search-box {
+  width: 60%;
+  height: 20%;
+  padding: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border: 3px solid #d1d1d1;
+  margin-left: 10px;
+}
+
+.hero-section {
+  width: 100vw;
+  background-image: url("https://cdn.wallpapersafari.com/18/86/593fAj.jpg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
